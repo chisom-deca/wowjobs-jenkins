@@ -13,7 +13,7 @@ pipelineJob('Cortex-viewjob-Backend-Client-job') {
             scm {
                 git {
                     remote {
-                        url 'https://github.com/tardisone/Cortex-Viewjob-Backend-Client'
+                        url 'git@github.com:tardisone/Cortex-Viewjob-Backend-Client.git'
                     }
                     branch 'feature-jenkins '
                 }
