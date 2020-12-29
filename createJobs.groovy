@@ -15,7 +15,7 @@ pipelineJob('Cortex-viewjob-Backend-Client-job') {
                     remote {
                         url 'https://github.com/tardisone/Cortex-Viewjob-Backend-Client'
                     }
-                    branch 'cortex-viewjob-backend-client-chisom-deca-check-permissions'
+                    branch 'feature-jenkins '
                 }
             }
         }
